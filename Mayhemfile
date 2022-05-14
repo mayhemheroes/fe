@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-felang
+target: fe
+
+cmds:
+  - cmd: /repo/fe @@
+    filepath: /test.fe
