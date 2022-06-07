@@ -2,5 +2,5 @@ project: felang
 target: fe
 
 cmds:
-  - cmd: /repo/fe @@
+  - cmd: /repo/fe /test.fe
     filepath: /test.fe
